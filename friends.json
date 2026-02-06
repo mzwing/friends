@@ -95,6 +95,12 @@
       "链接": "https://blog.beltfish.cn",
       "简介": "Beltfish Blog",
       "图标": "https://ixticu-1314221806.cos.ap-beijing.myqcloud.com/b_3c555f5a57f3ebdbebb5d075ba52c2eb.jpg"
+    },
+    {
+      "名称": "GZTime",
+      "链接": "https://blog.gzti.me/",
+      "简介": "Walking on the Time Axis.",
+      "图标": "https://cdn.gzti.me/avatar/GZTime_2021.png"
     }
   ]
 }
