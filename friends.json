@@ -85,10 +85,10 @@
       "图标": "https://blog.candlest.cc/_astro/kako.BH27l8nd_Z1PupE2.webp"
     },
     {
-      "名称": "若木秋光のHomePage",
-      "链接": "https://rmqg.org/",
-      "简介": "ここから、始めましょう。一から…いいえ、ゼロから！",
-      "图标": "https://avatars.githubusercontent.com/u/126173314?v=4"
+      "名称": "若木秋光の Blog Ver.3.0",
+      "链接": "https://blog.rmqg.org/",
+      "简介": "一个普通的大学生",
+      "图标": "https://blog.rmqg.org/avatar/avatar.webp"
     },
     {
       "名称": "带鱼Blog",
@@ -101,6 +101,18 @@
       "链接": "https://blog.gzti.me/",
       "简介": "Walking on the Time Axis.",
       "图标": "https://cdn.gzti.me/avatar/GZTime_2021.png"
+    },
+    {
+      "名称": "lbyxiaolizi's blog",
+      "链接": "https://blog.vh.gs/",
+      "简介": "喵喵喵喵喵",
+      "图标": "https://i1.vh.gs/2025/11/25/6925b04d8ca2b.jpg"
+    },
+    {
+      "名称": "EchO Blog",
+      "链接": "https://cybersecurityerial.github.io/echo_blog/",
+      "简介": "这是一个可爱的占位符",
+      "图标": "https://avatars.githubusercontent.com/u/117733745?v=4"
     }
   ]
 }
